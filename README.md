@@ -59,7 +59,7 @@ CC 4.0 BY-SA License: https://creativecommons.org/licenses/by-sa/4.0/legalcode.t
 
 ### Rank 8-3
 
-- Codename: `r-8-3`.
+- Codename: `rank-8-3`.
 - Codename alias 1: `Special`.
 - Alias 1: Superior Marshal.
 
@@ -67,7 +67,7 @@ CC 4.0 BY-SA License: https://creativecommons.org/licenses/by-sa/4.0/legalcode.t
 
 ### Rank 8-2
 
-- Codename: `r-8-2`.
+- Codename: `rank-8-2`.
 - Codename alias 1: `Special`.
 - Alias 1: Marshal.
 
@@ -75,7 +75,7 @@ CC 4.0 BY-SA License: https://creativecommons.org/licenses/by-sa/4.0/legalcode.t
 
 ### Rank 8-1
 
-- Codename: `r-8-1`.
+- Codename: `rank-8-1`.
 - Codename alias 1: `Special`.
 - Alias 1: Vice Marshal.
 
@@ -83,7 +83,7 @@ CC 4.0 BY-SA License: https://creativecommons.org/licenses/by-sa/4.0/legalcode.t
 
 ### Rank 8-0
 
-- Codename: `r-8-0`.
+- Codename: `rank-8-0`.
 - Codename alias 1: `Special`.
 - Alias 1: Rear Marshal.
 
@@ -95,7 +95,7 @@ CC 4.0 BY-SA License: https://creativecommons.org/licenses/by-sa/4.0/legalcode.t
 
 ### Rank 7-3
 
-- Codename: `r-7-3`.
+- Codename: `rank-7-3`.
 - Codename alias 1: `Special`.
 - Alias 1: Superior General.
 - Alias 2: General of the Army.
@@ -105,7 +105,7 @@ CC 4.0 BY-SA License: https://creativecommons.org/licenses/by-sa/4.0/legalcode.t
 
 ### Rank 7-2
 
-- Codename: `r-7-2`.
+- Codename: `rank-7-2`.
 - Codename alias 1: `O10`.
 - Alias 1: General.
 - Alias 2: General.
@@ -115,7 +115,7 @@ CC 4.0 BY-SA License: https://creativecommons.org/licenses/by-sa/4.0/legalcode.t
 
 ### Rank 7-1
 
-- Codename: `r-7-1`.
+- Codename: `rank-7-1`.
 - Codename alias 1: `O9`.
 - Alias 1: Vice general.
 - Alias 2: Lieutenant General.
@@ -125,7 +125,7 @@ CC 4.0 BY-SA License: https://creativecommons.org/licenses/by-sa/4.0/legalcode.t
 
 ### Rank 7-0
 
-- Codename: `r-7-0`.
+- Codename: `rank-7-0`.
 - Codename alias 1: `O8`.
 - Alias 1: Rear general.
 - Alias 2: Major General.
@@ -139,7 +139,7 @@ CC 4.0 BY-SA License: https://creativecommons.org/licenses/by-sa/4.0/legalcode.t
 
 ### Rank 6-3
 
-- Codename: `r-6-3`.
+- Codename: `rank-6-3`.
 - Codename alias 1: `O7`.
 - Codename alias 2: `O6`.
 - Alias 1: Superior Colonel.
@@ -150,7 +150,7 @@ CC 4.0 BY-SA License: https://creativecommons.org/licenses/by-sa/4.0/legalcode.t
 
 ### Rank 6-2
 
-- Codename: `r-6-2`.
+- Codename: `rank-6-2`.
 - Codename alias 1: `O6`.
 - Alias 1: Colonel.
 - Alias 2: Colonel.
@@ -160,7 +160,7 @@ CC 4.0 BY-SA License: https://creativecommons.org/licenses/by-sa/4.0/legalcode.t
 
 ### Rank 6-1
 
-- Codename: `r-6-1`.
+- Codename: `rank-6-1`.
 - Codename alias 1: `O5`.
 - Alias 1: Vice Colonel.
 - Alias 2: Lieutenant Colonel.
@@ -170,7 +170,7 @@ CC 4.0 BY-SA License: https://creativecommons.org/licenses/by-sa/4.0/legalcode.t
 
 ### Rank 6-0
 
-- Codename: `r-6-0`.
+- Codename: `rank-6-0`.
 - Codename alias 1: `O4`.
 - Alias 1: Rear Colonel.
 - Alias 2: Major.
@@ -184,7 +184,7 @@ CC 4.0 BY-SA License: https://creativecommons.org/licenses/by-sa/4.0/legalcode.t
 
 ### Rank 5-3
 
-- Codename: `r-5-3`.
+- Codename: `rank-5-3`.
 - Codename alias 1: `O4`.
 - Codename alias 2: `O3`.
 - Alias 1: Superior Captain.
@@ -195,7 +195,7 @@ CC 4.0 BY-SA License: https://creativecommons.org/licenses/by-sa/4.0/legalcode.t
 
 ### Rank 5-2
 
-- Codename: `r-5-2`.
+- Codename: `rank-5-2`.
 - Codename alias 1: `O3`.
 - Alias 1: Captain.
 - Alias 2: Captain.
@@ -205,7 +205,7 @@ CC 4.0 BY-SA License: https://creativecommons.org/licenses/by-sa/4.0/legalcode.t
 
 ### Rank 5-1
 
-- Codename: `r-5-1`.
+- Codename: `rank-5-1`.
 - Codename alias 1: `O2`.
 - Alias 1: Vice Captain.
 - Alias 2: First Lieutenant.
@@ -215,7 +215,7 @@ CC 4.0 BY-SA License: https://creativecommons.org/licenses/by-sa/4.0/legalcode.t
 
 ### Rank 5-0
 
-- Codename: `r-5-0`.
+- Codename: `rank-5-0`.
 - Codename alias 1: `O1`.
 - Alias 1: Rear Captain.
 - Alias 2: Second Lieutenant.
@@ -229,7 +229,7 @@ CC 4.0 BY-SA License: https://creativecommons.org/licenses/by-sa/4.0/legalcode.t
 
 ### Rank 4-4
 
-- Codename: `r-4-4`.
+- Codename: `rank-4-4`.
 - Codename alias 1: `W5`.
 - Alias 1: Superior Chief Warrant Officer.
 - Alias 2: Chief Warrant Officer 5.
@@ -238,7 +238,7 @@ CC 4.0 BY-SA License: https://creativecommons.org/licenses/by-sa/4.0/legalcode.t
 
 ### Rank 4-3
 
-- Codename: `r-4-3`.
+- Codename: `rank-4-3`.
 - Codename alias 1: `W4`.
 - Alias 1: Senior Chief Warrant Officer.
 - Alias 2: Chief Warrant Officer 4.
@@ -247,7 +247,7 @@ CC 4.0 BY-SA License: https://creativecommons.org/licenses/by-sa/4.0/legalcode.t
 
 ### Rank 4-2
 
-- Codename: `r-4-2`.
+- Codename: `rank-4-2`.
 - Codename alias 1: `W3`.
 - Alias 1: Chief Warrant Officer.
 - Alias 2: Chief Warrant Officer 3.
@@ -256,7 +256,7 @@ CC 4.0 BY-SA License: https://creativecommons.org/licenses/by-sa/4.0/legalcode.t
 
 ### Rank 4-1
 
-- Codename: `r-4-1`.
+- Codename: `rank-4-1`.
 - Codename alias 1: `W2`.
 - Alias 1: Senior Warrant Officer.
 - Alias 2: Chief Warrant Officer 2.
@@ -265,7 +265,7 @@ CC 4.0 BY-SA License: https://creativecommons.org/licenses/by-sa/4.0/legalcode.t
 
 ### Rank 4-0
 
-- Codename: `r-4-0`.
+- Codename: `rank-4-0`.
 - Codename alias 1: `W1`.
 - Alias 1: Warrant Officer.
 - Alias 2: Warrant Officer 1.
@@ -278,7 +278,7 @@ CC 4.0 BY-SA License: https://creativecommons.org/licenses/by-sa/4.0/legalcode.t
 
 ### Rank 3-3
 
-- Codename: `r-3-3`.
+- Codename: `rank-3-3`.
 - Codename alias 1: `C1C`.
 - Alias 1: Cadet Senior.
 - Alias 2: Cadet First Class (Senior).
@@ -287,7 +287,7 @@ CC 4.0 BY-SA License: https://creativecommons.org/licenses/by-sa/4.0/legalcode.t
 
 ### Rank 3-2
 
-- Codename: `r-3-2`.
+- Codename: `rank-3-2`.
 - Codename alias 1: `C2C`.
 - Alias 1: Cadet Junior.
 - Alias 2: Cadet Second Class (Junior).
@@ -296,7 +296,7 @@ CC 4.0 BY-SA License: https://creativecommons.org/licenses/by-sa/4.0/legalcode.t
 
 ### Rank 3-1
 
-- Codename: `r-3-1`.
+- Codename: `rank-3-1`.
 - Codename alias 1: `C3C`.
 - Alias 1: Cadet Sophomore.
 - Alias 2: Cadet Third Class (Sophomore).
@@ -305,7 +305,7 @@ CC 4.0 BY-SA License: https://creativecommons.org/licenses/by-sa/4.0/legalcode.t
 
 ### Rank 3-0
 
-- Codename: `r-3-0`.
+- Codename: `rank-3-0`.
 - Codename alias 1: `C4C`.
 - Alias 1: Cadet Freshman.
 - Alias 2: Cadet Fourth Class (Freshman).
@@ -318,7 +318,7 @@ CC 4.0 BY-SA License: https://creativecommons.org/licenses/by-sa/4.0/legalcode.t
 
 ### Rank 2-3
 
-- Codename: `r-2-3`.
+- Codename: `rank-2-3`.
 - Codename alias 1: `Special`.
 - Alias 1: Senior Chief Master Sergeant.
 - Alias 2: Sergeant Major of the Army.
@@ -328,7 +328,7 @@ CC 4.0 BY-SA License: https://creativecommons.org/licenses/by-sa/4.0/legalcode.t
 
 ### Rank 2-2
 
-- Codename: `r-2-2`.
+- Codename: `rank-2-2`.
 - Codename alias 1: `E9`.
 - Alias 1: Chief Master Sergeant.
 - Alias 2: Sergeant Major.
@@ -338,7 +338,7 @@ CC 4.0 BY-SA License: https://creativecommons.org/licenses/by-sa/4.0/legalcode.t
 
 ### Rank 2-1
 
-- Codename: `r-2-1`.
+- Codename: `rank-2-1`.
 - Codename alias 1: `E8`.
 - Alias 1: Senior Master Sergeant.
 - Alias 2: Master Sergeant.
@@ -348,7 +348,7 @@ CC 4.0 BY-SA License: https://creativecommons.org/licenses/by-sa/4.0/legalcode.t
 
 ### Rank 2-0
 
-- Codename: `r-2-0`.
+- Codename: `rank-2-0`.
 - Codename alias 1: `E7`.
 - Alias 1: Master Sergeant.
 - Alias 2: Sergeant First Class.
@@ -362,7 +362,7 @@ CC 4.0 BY-SA License: https://creativecommons.org/licenses/by-sa/4.0/legalcode.t
 
 ### Rank 1-3
 
-- Codename: `r-1-3`.
+- Codename: `rank-1-3`.
 - Codename alias 1: `E6`.
 - Alias 1: Senior Sergeant.
 - Alias 2: Staff Sergeant.
@@ -372,7 +372,7 @@ CC 4.0 BY-SA License: https://creativecommons.org/licenses/by-sa/4.0/legalcode.t
 
 ### Rank 1-2
 
-- Codename: `r-1-2`.
+- Codename: `rank-1-2`.
 - Codename alias 1: `E5`.
 - Alias 1: Sergeant.
 - Alias 2: Sergeant.
@@ -382,7 +382,7 @@ CC 4.0 BY-SA License: https://creativecommons.org/licenses/by-sa/4.0/legalcode.t
 
 ### Rank 1-1
 
-- Codename: `r-1-1`.
+- Codename: `rank-1-1`.
 - Codename alias 1: `E5`.
 - Codename alias 2: `E4`.
 - Alias 1: Senior Corporal.
@@ -393,7 +393,7 @@ CC 4.0 BY-SA License: https://creativecommons.org/licenses/by-sa/4.0/legalcode.t
 
 ### Rank 1-0
 
-- Codename: `r-1-1`.
+- Codename: `rank-1-0`.
 - Codename alias 1: `E4`.
 - Alias 1: Corporal.
 - Alias 2: Specialist.
@@ -407,7 +407,7 @@ CC 4.0 BY-SA License: https://creativecommons.org/licenses/by-sa/4.0/legalcode.t
 
 ### Rank 0-3
 
-- Codename: `r-0-3`.
+- Codename: `rank-0-3`.
 - Codename alias 1: `E4`.
 - Codename alias 2: `E3`.
 - Alias 1: Senior Lance Corporal.
@@ -418,7 +418,7 @@ CC 4.0 BY-SA License: https://creativecommons.org/licenses/by-sa/4.0/legalcode.t
 
 ### Rank 0-2
 
-- Codename: `r-0-2`.
+- Codename: `rank-0-2`.
 - Codename alias 1: `E3`.
 - Alias 1: Lance Corporal.
 - Alias 2: Private First Class.
@@ -428,7 +428,7 @@ CC 4.0 BY-SA License: https://creativecommons.org/licenses/by-sa/4.0/legalcode.t
 
 ### Rank 0-1
 
-- Codename: `r-0-1`.
+- Codename: `rank-0-1`.
 - Codename alias 1: `E2`.
 - Alias 1: Senior Private.
 - Alias 2: Private.
@@ -438,7 +438,7 @@ CC 4.0 BY-SA License: https://creativecommons.org/licenses/by-sa/4.0/legalcode.t
 
 ### Rank 0-0
 
-- Codename: `r-0-0`.
+- Codename: `rank-0-0`.
 - Codename alias 1: `E1`.
 - Alias 1: Private.
 - Alias 2: Private.
