@@ -188,6 +188,8 @@ CC 4.0 BY-SA License: https://creativecommons.org/licenses/by-sa/4.0/legalcode.t
 - Codename alias 1: `O4`.
 - Codename alias 2: `O3`.
 - Alias 1: Superior Captain.
+- Alias 2: Captain.
+- Alias 3: Lieutenant (Navy).
 
 ![insignia](./insignias/rank-5-3.svg)
 
@@ -229,7 +231,7 @@ CC 4.0 BY-SA License: https://creativecommons.org/licenses/by-sa/4.0/legalcode.t
 
 - Codename: `r-4-4`.
 - Codename alias 1: `W5`.
-- Alias 1: Superior Warrant Officer.
+- Alias 1: Superior Chief Warrant Officer.
 - Alias 2: Chief Warrant Officer 5.
 
 ![insignia](./insignias/rank-4-4.svg)
@@ -238,7 +240,7 @@ CC 4.0 BY-SA License: https://creativecommons.org/licenses/by-sa/4.0/legalcode.t
 
 - Codename: `r-4-3`.
 - Codename alias 1: `W4`.
-- Alias 1: Chief Warrant Officer.
+- Alias 1: Senior Chief Warrant Officer.
 - Alias 2: Chief Warrant Officer 4.
 
 ![insignia](./insignias/rank-4-3.svg)
@@ -247,7 +249,7 @@ CC 4.0 BY-SA License: https://creativecommons.org/licenses/by-sa/4.0/legalcode.t
 
 - Codename: `r-4-2`.
 - Codename alias 1: `W3`.
-- Alias 1: Warrant Officer.
+- Alias 1: Chief Warrant Officer.
 - Alias 2: Chief Warrant Officer 3.
 
 ![insignia](./insignias/rank-4-2.svg)
@@ -256,7 +258,7 @@ CC 4.0 BY-SA License: https://creativecommons.org/licenses/by-sa/4.0/legalcode.t
 
 - Codename: `r-4-1`.
 - Codename alias 1: `W2`.
-- Alias 1: Vice Warrant Officer.
+- Alias 1: Senior Warrant Officer.
 - Alias 2: Chief Warrant Officer 2.
 
 ![insignia](./insignias/rank-4-1.svg)
@@ -265,8 +267,8 @@ CC 4.0 BY-SA License: https://creativecommons.org/licenses/by-sa/4.0/legalcode.t
 
 - Codename: `r-4-0`.
 - Codename alias 1: `W1`.
-- Alias 1: Rear Warrant Officer.
-- Alias 2: Chief Warrant Officer 1.
+- Alias 1: Warrant Officer.
+- Alias 2: Warrant Officer 1.
 
 ![insignia](./insignias/rank-4-0.svg)
 
@@ -430,7 +432,7 @@ CC 4.0 BY-SA License: https://creativecommons.org/licenses/by-sa/4.0/legalcode.t
 - Codename alias 1: `E2`.
 - Alias 1: Senior Private.
 - Alias 2: Private.
-- Alias 3: Seaman apprentice (Navy).
+- Alias 3: Seaman Apprentice (Navy).
 
 ![insignia](./insignias/rank-0-1.svg)
 
