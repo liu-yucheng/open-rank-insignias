@@ -1,0 +1,4 @@
+# Git ignore file
+
+# Ignore file and directory names that start with a dot
+**/.*
