@@ -41,12 +41,12 @@ CC 4.0 BY-SA License: https://creativecommons.org/licenses/by-sa/4.0/legalcode.t
   - Bars.
   - Chevrons.
 
-# Rank Sets (Reversed Seniority Order)
+# Rank Sets (in Descending Seniority Order)
 
 - Designed to be as inclusive as possible.
 - Can take portions of the sets in applications.
 - No "special case" designs.
-  - Element arrangement follows logical order.
+  - Element arrangement follows binary logic order.
   - Element arrangement follows mathematical order.
 - All-in-one insignias.
   - Supports the below functions in one design.
