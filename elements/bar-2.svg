@@ -25,9 +25,9 @@
      inkscape:pagecheckerboard="true"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="px"
-     inkscape:zoom="0.35355339"
-     inkscape:cx="-176.7767"
-     inkscape:cy="634.98189"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="420.02143"
+     inkscape:cy="531.03719"
      inkscape:window-width="1920"
      inkscape:window-height="991"
      inkscape:window-x="-9"
@@ -55,28 +55,28 @@
      id="layer2"
      inkscape:label="foreground">
     <rect
-       style="fill:#ffffff;stroke:#ffffff;stroke-width:2.22225"
+       style="fill:#ffffff;stroke:#ffffff;stroke-width:1.81346"
        id="rect1"
-       width="537.77771"
-       height="267.77774"
-       x="271.11111"
-       y="406.11111"
+       width="538.18652"
+       height="178.18654"
+       x="270.90671"
+       y="450.90674"
        inkscape:label="rect3" />
     <rect
-       style="fill:#000000;stroke:#ffffff;stroke-width:1.23742"
+       style="fill:#000000;stroke:#000000;stroke-width:0.920995"
        id="rect1-9"
-       width="478.76254"
-       height="93.262581"
-       x="300.61871"
-       y="428.11871"
+       width="449.07898"
+       height="55.079006"
+       x="315.46048"
+       y="473.46051"
        inkscape:label="rect2" />
     <rect
-       style="fill:#000000;stroke:#ffffff;stroke-width:1.23742"
+       style="fill:#000000;stroke:#000000;stroke-width:0.920995"
        id="rect1-9-1"
-       width="478.76254"
-       height="93.262581"
-       x="300.61871"
-       y="558.61871"
+       width="449.07898"
+       height="55.079006"
+       x="315.46048"
+       y="551.46051"
        inkscape:label="rect1" />
   </g>
   <metadata

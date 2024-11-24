@@ -25,9 +25,9 @@
      inkscape:pagecheckerboard="true"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="px"
-     inkscape:zoom="0.5"
-     inkscape:cx="122"
-     inkscape:cy="609"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="277.18586"
+     inkscape:cy="371.23106"
      inkscape:window-width="1920"
      inkscape:window-height="991"
      inkscape:window-x="-9"
@@ -56,41 +56,41 @@
      inkscape:label="foreground"
      transform="rotate(180,539.99557,539.91661)">
     <rect
-       style="fill:#ffffff;stroke:#ffffff;stroke-width:1.1268"
+       style="fill:#ffffff;stroke:#ffffff;stroke-width:0.920335"
        id="rect1"
-       width="276.52939"
-       height="133.88887"
-       x="278.75308"
-       y="375.62131"
+       width="276.79663"
+       height="89.232323"
+       x="278.16992"
+       y="397.68805"
        inkscape:label="polygon1"
-       transform="matrix(0.97236992,0.23344536,0,1,0,0)" />
+       transform="matrix(0.97220611,0.23412661,0,1,0,0)" />
     <rect
-       style="fill:#ffffff;stroke:#ffffff;stroke-width:1.1268"
-       id="rect1-0"
-       width="276.52939"
-       height="133.88887"
-       x="-831.92621"
-       y="634.90424"
+       style="fill:#000000;stroke:#000000;stroke-width:0.593394"
+       id="rect1-9"
+       width="230.81647"
+       height="44.484787"
+       x="324.27585"
+       y="420.17261"
        inkscape:label="polygon2"
-       transform="matrix(-0.97236992,0.23344536,0,1,0,0)" />
+       transform="matrix(0.97227219,0.23385206,0,1,0,0)" />
     <rect
-       style="fill:#000000;stroke:#000000;stroke-width:0.867094"
-       id="rect1-0-8"
-       width="245.94032"
-       height="89.144974"
-       x="-801.20386"
-       y="658.17511"
+       style="fill:#ffffff;stroke:#ffffff;stroke-width:0.920335"
+       id="rect1-8"
+       width="276.79663"
+       height="89.232323"
+       x="-832.68738"
+       y="657.76758"
        inkscape:label="polygon3"
-       transform="matrix(-0.97236992,0.23344536,0,1,0,0)" />
+       transform="matrix(-0.97220611,0.23412661,0,1,0,0)" />
     <rect
-       style="fill:#000000;stroke:#000000;stroke-width:0.867093"
-       id="rect1-5"
-       width="245.94032"
-       height="89.144974"
-       x="309.47232"
-       y="398.89288"
+       style="fill:#000000;stroke:#000000;stroke-width:0.593394"
+       id="rect1-9-9"
+       width="230.81647"
+       height="44.484787"
+       x="-786.50726"
+       y="679.92847"
        inkscape:label="polygon4"
-       transform="matrix(0.97236992,0.23344536,0,1,0,0)" />
+       transform="matrix(-0.97227219,0.23385206,0,1,0,0)" />
   </g>
   <metadata
      id="metadata1">
