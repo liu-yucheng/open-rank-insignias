@@ -27,7 +27,7 @@
      inkscape:document-units="px"
      inkscape:zoom="0.70710678"
      inkscape:cx="568.51385"
-     inkscape:cy="584.77731"
+     inkscape:cy="586.19152"
      inkscape:window-width="1920"
      inkscape:window-height="991"
      inkscape:window-x="-9"
@@ -56,23 +56,23 @@
      inkscape:label="foreground"
      transform="rotate(180,539.99554,539.9141)">
     <rect
-       style="fill:#ffffff;stroke:#ffffff;stroke-width:0.649157"
+       style="fill:#ffffff;stroke:#ffffff;stroke-width:0.650272"
        id="rect1"
-       width="277.01376"
-       height="44.359875"
-       x="278.51089"
-       y="420.38324"
+       width="277.53183"
+       height="44.429234"
+       x="277.4689"
+       y="420.47519"
        inkscape:label="polygon1"
-       transform="matrix(0.97236992,0.23344536,0,1,0,0)" />
+       transform="matrix(0.97238707,0.23337391,0,1,0,0)" />
     <rect
-       style="fill:#ffffff;stroke:#ffffff;stroke-width:0.649157"
+       style="fill:#ffffff;stroke:#ffffff;stroke-width:0.650272"
        id="rect1-0"
-       width="277.01376"
-       height="44.359875"
-       x="-832.16833"
-       y="679.66626"
+       width="277.53183"
+       height="44.429234"
+       x="-832.15308"
+       y="679.43207"
        inkscape:label="polygon2"
-       transform="matrix(-0.97236992,0.23344536,0,1,0,0)" />
+       transform="matrix(-0.97238707,0.23337391,0,1,0,0)" />
   </g>
   <metadata
      id="metadata1">
