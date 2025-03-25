@@ -34,12 +34,13 @@ CC 4.0 BY-SA License: https://creativecommons.org/licenses/by-sa/4.0/legalcode.t
 
 # Artistic Generes
 
-- White foreground.
-- Black background.
+- White foreground, value `1.0 / 1.0`.
+- Gray foreground, value `0.5 / 1.0`.
+- Black background, value `0.0 / 1.0`.
 - [Flat, abstract geographic designs.](./elements/)
-  - 5-pointed stars.
   - Bars.
   - Chevrons.
+  - Other simple geometric shapes.
 
 # Rank Sets (in Descending Seniority Order)
 
@@ -49,9 +50,9 @@ CC 4.0 BY-SA License: https://creativecommons.org/licenses/by-sa/4.0/legalcode.t
   - Element arrangement follows binary logic order.
   - Element arrangement follows mathematical order.
 - All-in-one insignias.
-  - Supports the below functions in one design.
   - Shoulder insignias.
   - Sleeve insignias.
+  - Chest insignias.
 
 ## Rank 8
 
