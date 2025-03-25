@@ -7,7 +7,7 @@
    viewBox="0 0 1080 1080"
    version="1.1"
    id="svg1"
-   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   inkscape:version="1.4 (86a8ad7, 2024-10-11)"
    sodipodi:docname="star-0.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -26,14 +26,15 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="px"
      inkscape:zoom="0.5"
-     inkscape:cx="632"
-     inkscape:cy="565"
+     inkscape:cx="633"
+     inkscape:cy="567"
      inkscape:window-width="1920"
      inkscape:window-height="991"
      inkscape:window-x="-9"
      inkscape:window-y="-9"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer2" />
+     inkscape:current-layer="layer2"
+     showguides="false" />
   <defs
      id="defs1" />
   <g
@@ -63,15 +64,15 @@
        sodipodi:cx="158"
        sodipodi:cy="214"
        sodipodi:r1="933.39807"
-       sodipodi:r2="317.35535"
+       sodipodi:r2="354.69128"
        sodipodi:arg1="0.7914587"
        sodipodi:arg2="1.4197772"
        inkscape:rounded="-5.2041704e-17"
        inkscape:randomized="0"
-       d="M 813.99998,877.99999 205.74476,527.74329 -270.78637,1043.0803 -125.63366,356.35997 -763.00453,62.39984 -65.040002,-11.759991 17.574267,-708.77439 303.78736,-67.887321 992.21666,-204.70578 471.14155,265.54405 Z"
-       inkscape:transform-center-x="-0.017747082"
-       inkscape:transform-center-y="-21.31078"
-       transform="matrix(0.22508974,0.03606447,-0.03431589,0.23655933,511.73852,508.92319)"
+       d="M 813.99998,877.99999 211.36179,564.65428 -270.78637,1043.0803 -159.00234,373.10821 -763.00453,62.39984 -91.280013,-38.32 17.574267,-708.77439 320.93882,-101.05055 992.21666,-204.70578 507.98174,271.60805 Z"
+       inkscape:transform-center-x="-0.023660717"
+       inkscape:transform-center-y="-28.428834"
+       transform="matrix(0.30015393,0.04811045,-0.04575974,0.31557306,502.34456,493.3446)"
        inkscape:label="star-1" />
   </g>
   <metadata
